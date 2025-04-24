@@ -32,6 +32,6 @@ wss.on("connection", function connection(ws, req) {
     });
 });
 
-server.listen(3000, () => {
+server.listen(3030, () => {
     console.log("Server running at http://localhost:3000/index.html?username=YourName");
 });
