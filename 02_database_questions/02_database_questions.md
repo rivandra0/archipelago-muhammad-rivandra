@@ -1,5 +1,7 @@
 # Database Questions
 
+[Back](../README.md)
+
 ## Level 1 (Novice - Expected Task Time: 1 minute):
 
 Write a SQL query that shows me how many customers there are from Germany.
